@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">I am a web developer from London, UK</h3>
+<h1 align="left">Hi 👋, I'm Michael</h1>
+<h3 align="left">I am a web developer from London, UK</h3>
+
+
 
 - 🔭 I’m currently working on **improving my skills in Ruby, Rails, CSS & JavaScript**
 
