@@ -8,7 +8,7 @@
 My previous projects:
 
 <ul>
-  <li><a href="https://github.com/zeinaaabbb/League-all">League-All</a> : A grassroots league organisation tool for women's and non-binary football.</li>
+  <li><a href="https://www.league-all.me">League-All</a> : A grassroots league organisation tool for women's and non-binary football.</li>
   <li><a href="https://github.com/crudengold/-venuebookr">Venuebookr</a> : an AirBnB clone for events spaces.</li>
 </ul>
 
